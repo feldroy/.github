@@ -1,3 +1,3 @@
-# Feldroy
+# Feldroy's .github
 
-The little org of @pydanny and @audreyfeldroy
+Fallback default community health files for all our repos
